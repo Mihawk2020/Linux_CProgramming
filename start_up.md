@@ -1,5 +1,7 @@
 ## Start Up
 
+[ToC]
+
 ### Git Settings
 
 #### 下载安装
